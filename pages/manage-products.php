@@ -40,7 +40,7 @@ require dirname(__DIR__) . '/parts/header.php';
         <div class="text-end">
           <?php if(Authentication::whoCanAccess('admin')): ?>
           <a href="/manage-products-add" class="btn btn-secondary btn-sm"
-            >Add New Post</a
+            >Add New Product</a
           >
           <?php endif; ?>
         </div>

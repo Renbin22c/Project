@@ -63,7 +63,7 @@ require dirname(__DIR__) . '/parts/header.php';
 ?>
     <div class="container mx-auto my-5" style="max-width: 700px;">
       <div class="d-flex justify-content-between align-items-center mb-2">
-        <h1 class="h1 text-white">Add New Post</h1>
+        <h1 class="h1 text-white">Add New Product</h1>
       </div>
       <div class="card mb-2 p-4 text-white bg-dark">
         <?php require dirname( __DIR__ ) . '/parts/error_box.php'; ?>
